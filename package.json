@@ -3,12 +3,14 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@rematch/core": "^1.1.0",
     "axios": "^0.18.0",
     "grommet": "^2.6.6",
     "grommet-icons": "^4.2.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-icons": "^3.6.1",
+    "react-redux": "^7.0.3",
     "react-scripts": "3.0.0",
     "styled-components": "^4.2.0"
   },
